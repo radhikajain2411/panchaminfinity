@@ -3,24 +3,24 @@
     "img": "assets/img/banner/banner-img.png",
     "bgimg": "assets/img/banner/banner-01.jpg",
     "bgimgtwo":"assets/img/banner/banner-04.jpg",
-    "subtitle": "IT Company",
-    "title": "Web App and Mobile App Development",
-    "text": "Since our establishment, we have been delivering high-quality and sustainable software solutions for corporate purposes of worldwide businesses."
+    "subtitle": "Solar Smart Tree",
+    "title": "EV Chargers and Solar Products",
+    "text": "Since our establishment, we have been delivering high-quality and sustainable solar based products for corporate purposes of worldwide businesses."
   },
   {
     "img": "assets/img/banner/banner-img.png",
     "bgimg": "assets/img/banner/banner-02.jpg",
     "bgimgtwo":"assets/img/banner/banner-05.jpg",
-    "subtitle": "IT Company",
-    "title": "Experienced Team",
-    "text": "We are a team of qualified software developers, aimed at creating unique and powerful tools for your business & everyday life."
+    "subtitle": "Solar Smart Tree",
+    "title": "New Technology",
+    "text": "Our product will combine the futuristic Internet of Things (IoT) technology "
   },
   {
     "img": "assets/img/banner/banner-img.png",
     "bgimg": "assets/img/banner/banner-03.jpg",
     "bgimgtwo":"assets/img/banner/banner-06.jpg",
-    "subtitle": "IT Company",
-    "title": "Award-Winning Software",
-    "text": "The software solutions developed by our company have been numerously awarded for usability and innovative features."
+    "subtitle": "Solar Smart Tree",
+    "title": "Innovation",
+    "text": "The solar products developed by our company have innovative features."
   }
 ]
