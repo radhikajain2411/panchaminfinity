@@ -1,0 +1,43 @@
+<section class="experience-section section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 col-md-8 wow fadeInLeft" data-wow-delay="0.3s">
+                <div class="section-title with-right-border mb-md-gap-30">
+                    <span class="title-tag">10 Years Of Experience</span>
+                    <h2 class="title">Not only explore for job done.</h2>
+                </div>
+            </div>
+            <div class="col-lg-6 offset-lg-1 wow fadeInRight" data-wow-delay="0.3s">
+                <div class="experience-text">
+                    <p class="fs-16 text-color-2">Pancham Infinity is a private limited company set up in the year 2021, located at Indore, Madhya Pradesh.
+
+                        Pancham Group of Industries is a highly experienced team in product designing and developing, creating unique solutions for you."
+                        
+                        Pancham Infinity was established to create a culture of quality, and drive organization with excellence, both within and outside the group, of creating a community of hands-on problem solvers who make a difference. Our offerings are administered by a mix of top-rated faculty, both in-house as well as experts and practitioners from industry and academia.
+                        
+                        We offer a mix of flagship tech solution, programs, and Accelerated Learning Program on Safety - and various environment certification as well as customized training programs. PI's USP is its focus on implementation and environment management consultancy projects for corporates.​
+                        
+                        Pancham Infinity is committed to leading India’s transition away from fossil fuels and meeting the rising demand for energy in a sustainable manner by delivering cleaner and smarter energy choices; thereby reducing India’s carbon footprint.​</p>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center mt-50">
+            <!-- Data -->
+            <div class="col-lg-4 col-md-6 col-sm-8 wow fadeInUp" data-wow-delay="0.5s"
+                *ngFor="let item of services | slice:0:3">
+                <div class="feature-box mt-30">
+                    <img [src]="item.img" [alt]="item.title">
+                    <div class="feature-overlay">
+                        <div class="content">
+                            <h5 class="title">{{item.title}}</h5>
+                            <p>{{item.shortdesc | slice:0:70}}</p>
+                            <a routerLink="/service-details">Read More</a>
+                            <i [class]="item.icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Data -->
+        </div>
+    </div>
+</section>
