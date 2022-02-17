@@ -26,7 +26,7 @@ export class AppComponent implements OnInit {
     window.scroll(0,0);
   }
   private createTitle(routesCollection: Breadcrumb[]) {
-    const title = 'Omnivus - IT Business Consulting Angular';
+    const title = 'Pancham Infinity';
     const titles = routesCollection.filter((route) => route.displayName);
 
     if (!titles.length) { return title; }
