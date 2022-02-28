@@ -76,7 +76,7 @@
     }
 }
 
-.conatct-section-two {
+.contact-section-two {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -163,6 +163,7 @@
     display: flex;
     border: 1px solid $border-color-2;
     flex-wrap: wrap;
+    
 
     .contact-info-item {
         border: 1px solid $border-color-2;

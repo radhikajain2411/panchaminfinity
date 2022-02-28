@@ -9,23 +9,19 @@
         "link":"/services",
         "linkText": "Services"  
     },
+    
     {
         "id": 3,
-        "link": "/case-study",
-        "linkText": "Case Study"
-    },
-    {
-        "id": 4,
         "link": "/blog-grid",
         "linkText": "Blog"
     },
     {
-        "id": 5,
+        "id": 4,
         "link": "/about",
         "linkText": "About Us"
     },
     {
-        "id": 6,
+        "id": 5,
         "link": "/contact",
         "linkText": "Contact"
     }
