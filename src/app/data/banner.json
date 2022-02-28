@@ -1,7 +1,7 @@
 [
   {
     "img": "assets/img/banner/banner-img.png",
-    "bgimg": "assets/img/banner/banner-01.jpg",
+    "bgimg": "assets/img/images/transport.jpg",
     "bgimgtwo":"assets/img/banner/banner-04.jpg",
     "subtitle": "Solar Smart Tree",
     "title": "EV Chargers and Solar Products",
@@ -9,7 +9,7 @@
   },
   {
     "img": "assets/img/banner/banner-img.png",
-    "bgimg": "assets/img/banner/banner-02.jpg",
+    "bgimg": "assets/img/images/charging of electric.jpg",
     "bgimgtwo":"assets/img/banner/banner-05.jpg",
     "subtitle": "Solar Smart Tree",
     "title": "New Technology",

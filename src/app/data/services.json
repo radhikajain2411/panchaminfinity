@@ -1,21 +1,21 @@
 [
     {
         "id":1,
-        "img":"assets/img/service-img/07.jpg",
+        "img":"assets/img/images/robot-cyberr.jpg",
         "icon":"fal fa-eye-dropper",
         "title":"Education Infrastructure",
         "shortdesc":"We are working toward achieving Sustainable Development Goal"
     },
     {
         "id":2,
-        "img":"assets/img/service-img/08.jpg",
+        "img":"assets/img/images/electric-carr.jpg",
         "icon":"fal fa-gavel",
         "title":"Carbon Emission",
         "shortdesc":"We are working toward achieving Sustainable Development Goal"
     },
     {
         "id":3,
-        "img":"assets/img/service-img/09.jpg",
+        "img":"assets/img/images/street light.jpg",
         "icon":"fal fa-map-marked-alt",
         "title":"Renewable Street Light",
         "shortdesc":"Remote Rural Area facing electricity challenge during peak hour’s"

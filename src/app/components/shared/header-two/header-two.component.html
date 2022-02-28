@@ -40,6 +40,7 @@
                             <span class="dd-trigger" [ngClass]="item.open ? 'open' : ''" *ngIf="item.child" (click)="trigger(item)">
                                 <i class="fal" [ngClass]="item.open ? 'fa-minus' : 'fa-plus'"></i>
                             </span>
+                  
                             <a routerLink="{{item.link}}" *ngIf="!item.child">{{item.linkText}}</a>
                             <ul class="submenu" *ngIf="item.child" [ngClass]="item.open ? 'd-block' : ''">
                                 <li [ngClass]="item.child ? 'menu-item menu-item-has-children':'menu-item'" *ngFor="let item of item.submenu">
